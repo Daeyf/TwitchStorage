@@ -1,22 +1,22 @@
-["Wie nennt man einen Waschbär der trainiert? \r-Waschmaschine.",
-"Wann hört ein Handwerker auf zu Nageln? \r-Wenn er es für angebracht hält.",
-"In Prüfungen wär ich gern ein Ei. \rEi rät nicht Ei weiß.",
-"Wie heißt eine Gruppe von Wölfen? \r-Wolf gang.",
-"Was haben Elektroautos und Durchfall gemeinsam? \r-Die Angst es nicht nach Hause zu schaffen.",
+["Wie nennt man einen Waschbär der trainiert? \n\n-Waschmaschine.",
+"Wann hört ein Handwerker auf zu Nageln? \n\n-Wenn er es für angebracht hält.",
+"In Prüfungen wär ich gern ein Ei. \n\nEi rät nicht Ei weiß.",
+"Wie heißt eine Gruppe von Wölfen? \n\n-Wolf gang.",
+"Was haben Elektroautos und Durchfall gemeinsam? \n\n-Die Angst es nicht nach Hause zu schaffen.",
 "Wenn ein Mann einer Frau die Tür öffnet ist entweder der Wagen neu oder die Frau.", 
 "Ich hab meine Armbrust letztens vergoldet, ich hab jetzt eine Reichbrust.",
-"Was ist der Unterschied zwischen einem Mann und ET? \r-ET hat Zuhause angerufen",
-"Wie nennt man einen Araber der auf Frauen und Männer steht? \r-Ali bi", 
-"Warum spielen Araber kein Schach? \r-Weil sich die Dame frei bewegen darf!", 
-"Herr Pfarrer, ich habe den Wunsch ewig zu leben. Was soll ich tun? \r-Heiraten \r-und dadurch lebe ich ewig? \r-Nein, aber der Wunsch verschwindet", 
-"Wie haben Sie ihren Mann kennen gelernt? \r-Ich bin Drogistin, als er in meinen Shop kam, fragte er nach XXXXXXL Kondomen. Erst nach der Hochzeit habe ich gemerkt, dass er stottert",
-"Deutscher in der Schweiz. \r-Ich würde gerne ein neues Konto eröffnen \r-alles klar. Erledigt \r-ich möchte auch gleich Geld einzahlen \r-OK, wie viel möchten sie denn einzahlen? \r-flüsternd: 2 Millionen Euro \r-Sie müssen sich nicht schämen, Armut is in der Schweiz keine Schande!",
-"Treffen sich zwei Freunde. \r-Sagt der eine: ich hab keine Freundin heute mit Oralverkehr geweckt \r-und was hat sie dazu gesagt? \r-Laff daf!",
+"Was ist der Unterschied zwischen einem Mann und ET? \n\n-ET hat Zuhause angerufen",
+"Wie nennt man einen Araber der auf Frauen und Männer steht? \n\n-Ali bi", 
+"Warum spielen Araber kein Schach? \n\n-Weil sich die Dame frei bewegen darf!", 
+"Herr Pfarrer, ich habe den Wunsch ewig zu leben. Was soll ich tun? \n\n-Heiraten \n\n-und dadurch lebe ich ewig? \n\n-Nein, aber der Wunsch verschwindet", 
+"Wie haben Sie ihren Mann kennen gelernt? \n\n-Ich bin Drogistin, als er in meinen Shop kam, fragte er nach XXXXXXL Kondomen. Erst nach der Hochzeit habe ich gemerkt, dass er stottert",
+"Deutscher in der Schweiz. \n\n-Ich würde gerne ein neues Konto eröffnen \n\n-alles klar. Erledigt \n\n-ich möchte auch gleich Geld einzahlen \n\n-OK, wie viel möchten sie denn einzahlen? \n\n-flüsternd: 2 Millionen Euro \n\n-Sie müssen sich nicht schämen, Armut is in der Schweiz keine Schande!",
+"Treffen sich zwei Freunde. \n\n-Sagt der eine: ich hab keine Freundin heute mit Oralverkehr geweckt \n\n-und was hat sie dazu gesagt? \n\n-Laff daf!",
 "Hallo. Ich bin voll erledigt, denn ich hab heut den ganzen Tag Sauerstoff in Kohlendioxid umgewandelt.",
 "Der Verkehr heute war eine Katastrophe hat im Home Office nochmal eine ganz andere Bedeutung.",
-"Ich hab Letztens einer Frau einen Regenschirm geliehen. \r-d.h. die Anzahl der Frauen, die ich dieses Jahr feucht gemacht hab, liegt bei -1 ",
-"Wie nennt man Puffgänger die keine Milchprodukte vertragen? \r-Lactosefreier",
+"Ich hab Letztens einer Frau einen Regenschirm geliehen. \n\n-d.h. die Anzahl der Frauen, die ich dieses Jahr feucht gemacht hab, liegt bei -1 ",
+"Wie nennt man Puffgänger die keine Milchprodukte vertragen? \n\n-Lactosefreier",
 "Wenn eine Frau auch unwohl fühlt, dir beim masturbieren zuzuschauen, hat sie dann:
-\r-A ) ein Problem mit ihrer Intimität
-\r-Oder ist sie B) zu frigide
-\r-Oder C) sollte sie sich im Bus einfach woanders hinsetzen"]
+\n\n-A ) ein Problem mit ihrer Intimität
+\n\n-Oder ist sie B) zu frigide
+\n\n-Oder C) sollte sie sich im Bus einfach woanders hinsetzen"]
