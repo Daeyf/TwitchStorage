@@ -1,6 +1,6 @@
-['Wie nennt man einen Waschbär der trainiert? -Waschmaschine', 
-'Wann hört ein Handwerker auf zu Nageln? -wenn er es für angebracht hält', 
-'In Prüfungen wär ich gern ein Ei. Ei rät nicht Ei weiß.', 
-'Wie heißt eine Gruppe von Wölfen? - Wolfgang', 
-'Was haben Elektroautos und Durchfall gemeinsam? -Die Angst es nicht nach Hause zu schaffen.', 
-'Wenn ein Mann einer Frau die Tür öffnet ist entweder der Wagen neu oder die Frau']
+[`Wie nennt man einen Waschbär der trainiert? -Waschmaschine`, 
+`Wann hört ein Handwerker auf zu Nageln? -wenn er es für angebracht hält`, 
+`In Prüfungen wär ich gern ein Ei. Ei rät nicht Ei weiß.`, 
+`Wie heißt eine Gruppe von Wölfen? - Wolfgang`, 
+`Was haben Elektroautos und Durchfall gemeinsam? -Die Angst es nicht nach Hause zu schaffen.`, 
+`Wenn ein Mann einer Frau die Tür öffnet ist entweder der Wagen neu oder die Frau`]
